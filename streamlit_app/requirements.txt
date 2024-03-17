@@ -1,0 +1,7 @@
+newsapi_python==0.2.7
+pandas==2.0.3
+plotly==5.16.1
+statsmodels==0.14.0
+streamlit==1.26.0
+yfinance==0.2.37
+
