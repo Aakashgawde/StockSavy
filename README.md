@@ -8,16 +8,6 @@
 
 This project aims to build a robust and accurate stock price prediction system using **Long Short-Term Memory (LSTM)** networks — a special type of Recurrent Neural Network (RNN) tailored for time series forecasting. The system helps investors and traders make informed decisions by analyzing historical stock data and predicting future price movements.
 
-## 👨‍💻 Developed By
-
-- **Aakash Gawde (4397)**
-- **Jitesh Mhatre (4401)**
-- **Sahil Sawant (4400)**
-
-Guided by **Mr. Omkar Singh**  
-Thakur College of Science and Commerce, Mumbai.
-
----
 
 ## 🎯 Objectives
 
@@ -80,10 +70,3 @@ Thakur College of Science and Commerce, Mumbai.
   - MAPE-based comparison of predicted vs actual stock prices
 - Accuracy validated across multiple trading dates using real stock data
 
----
-
-## 🚀 Getting Started
-
-### 🔧 Requirements
-```bash
-pip install -r requirements.txt
